@@ -1,0 +1,2 @@
+sitemap: http://pm-tumen.ru/sitemap.xml
+host: pm-tumen.ru
